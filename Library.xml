@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Titles>
+    <Media>
+      <Id>1</Id>
+      <Name>Lakeside_SunRise_1920x1080</Name>
+      <Path>C:\Users\Delphine\Pictures\Wallpaper\Lakeside_SunRise_1920x1080.jpg</Path>
+      <Type>IMAGE</Type>
+    </Media>
+    <Media>
+      <Id>2</Id>
+      <Name>No.6.full.1212906</Name>
+      <Path>C:\Users\Delphine\Pictures\Wallpaper\No.6.full.1212906.jpg</Path>
+      <Type>IMAGE</Type>
+    </Media>
+    <Media>
+      <Id>3</Id>
+      <Name>noImage</Name>
+      <Path>C:\Users\Delphine\Pictures\Wallpaper\noImage.jpg</Path>
+      <Type>IMAGE</Type>
+    </Media>
+    <Media>
+      <Id>4</Id>
+      <Name>ori (1)</Name>
+      <Path>C:\Users\Delphine\Pictures\Wallpaper\ori (1).jpg</Path>
+      <Type>IMAGE</Type>
+    </Media>
+    <Media>
+      <Id>5</Id>
+      <Name>test</Name>
+      <Path>C:\Users\Delphine\Pictures\Wallpaper\test.jpg</Path>
+      <Type>IMAGE</Type>
+    </Media>
+  </Titles>
+  <Id>0</Id>
+</Library>
